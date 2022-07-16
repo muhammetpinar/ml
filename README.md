@@ -1,10 +1,3 @@
-# ml[ml.md](https://github.com/muhammetpinar/ml/files/7780679/ml.md)
-# Awesome MLOps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/awesome-github-badges) 
-
-![MLOps. You Desing It. Your Train It. You Run It.](awesome-mlops-intro.png)
-
-*An awesome list of references for MLOps - Machine Learning Operations :point_right: [ml-ops.org](https://ml-ops.org/)*
-
 
 # Table of Content
 | <!-- -->                         | <!-- -->                         |
@@ -527,4 +520,3 @@
 1. [x] [DataTalks.Club Community: Slack, Newsletter, Podcast, Weeekly Events](https://datatalks.club/)
 1. [Machine Learning Ops Roundup](https://mlopsroundup.substack.com/)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/visenger?style=social)
